@@ -25,9 +25,9 @@ To use the MVSEC dataset for our approach, it needs to be pre-processed into the
 
 [MVSEC Outdoor Day 1 for 45 Hz evaluation](https://download.ifi.uzh.ch/rpg/ERAFT/datasets/mvsec_outdoor_day_1_45Hz.tar)
 
-| ```Repartition``` | ```MVSEC``` | ```DSEC``` |
-|:---:|:---:|:---:|
-|<img src="https://github.com/ClaireDel/Conflict-Detection---GDP2/blob/main/pictures/dataset_repartition.png" width="100%" height="30%">|<img src="https://github.com/ClaireDel/Conflict-Detection---GDP2/blob/main/pictures/image.png" width="70%" height="30%">|<img src="https://github.com/ClaireDel/Conflict-Detection---GDP2/blob/main/pictures/image_crop.png" width="100%" height="30%">|
+| ```MVSEC``` | ```DSEC``` |
+|:---:|:---:|
+|<img src="https://github.com/ClaireDel/Conflict-Detection---GDP2/blob/main/pictures/image.png" width="70%" height="30%">|<img src="https://github.com/ClaireDel/Conflict-Detection---GDP2/blob/main/pictures/image_crop.png" width="100%" height="30%">|
 
 
 ## 2. Optical Flow Estimation
@@ -45,12 +45,10 @@ Download the network checkpoints and place them in the folder ```checkpoints/```
 [Checkpoint trained on MVSEC 45 Hz](https://download.ifi.uzh.ch/rpg/ERAFT/checkpoints/mvsec_45.tar)
 
 
-### Running <br/> 
+### Running 
 The same python code '....py' is used for this part.
 
 The parse can be updated according to the type of results needed:
-
-```
 
 <p align="center">
   <img src="https://github.com/ClaireDel/Conflict-Detection---GDP2/blob/main/pictures/seg_airport.jpg" width=400 height=auto> <br/> 
@@ -60,4 +58,5 @@ The parse can be updated according to the type of results needed:
 
 
 ## 3. Depth Estimation
-This part consists in 
+This part consists in
+
