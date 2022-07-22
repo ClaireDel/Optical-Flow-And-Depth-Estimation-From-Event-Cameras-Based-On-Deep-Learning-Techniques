@@ -67,6 +67,11 @@ The parse can be updated according to the type of results needed:
 </p>
 
 
+<p align="center">
+  <img src="https://github.com/ClaireDel/Optical-Flow-And-Depth-Estimation-From-Event-Cameras-Based-On-Deep-Learning-Techniques/blob/main/pictures/depth.PNG" width=400 height=auto> <br/> 
+  Fig: Optical Flow Demo
+</p>
+
 
 ## 3. Depth Estimation
 This part consists in
@@ -108,3 +113,8 @@ python run_depth.py -c pretrained/E2DEPTH_si_grad_loss_mixed.pth.tar \
   --save_inv_log \
   --save_color_map
 ```
+
+<p align="center">
+  <img src="https://github.com/ClaireDel/Optical-Flow-And-Depth-Estimation-From-Event-Cameras-Based-On-Deep-Learning-Techniques/blob/main/pictures/depth.PNG" width=400 height=auto> <br/> 
+  Fig: Depth Estimation Demo
+</p>
