@@ -68,7 +68,7 @@ The parse can be updated according to the type of results needed:
 
 
 <p align="center">
-  <img src="https://github.com/ClaireDel/Optical-Flow-And-Depth-Estimation-From-Event-Cameras-Based-On-Deep-Learning-Techniques/blob/main/pictures/depth.PNG" width=400 height=auto> <br/> 
+  <img src="https://github.com/ClaireDel/Optical-Flow-And-Depth-Estimation-From-Event-Cameras-Based-On-Deep-Learning-Techniques/blob/main/Optical-Flow/demo/20Hz/events.mp4" width=400 height=auto> <br/> 
   Fig: Optical Flow Demo
 </p>
 
