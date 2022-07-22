@@ -61,13 +61,13 @@ The same python code '....py' is used for this part.
 
 <p align="center">
   <img src="https://github.com/ClaireDel/Optical-Flow-And-Depth-Estimation-From-Event-Cameras-Based-On-Deep-Learning-Techniques/blob/main/pictures/event-flow.gif" width=400 height=auto> <br/> 
-  Fig: Depth Estimation Demo
+  Fig: Event Source
 </p>
 
 
 <p align="center">
   <img src="https://github.com/ClaireDel/Optical-Flow-And-Depth-Estimation-From-Event-Cameras-Based-On-Deep-Learning-Techniques/blob/main/pictures/flow.gif" width=400 height=auto> <br/> 
-  Fig: Depth Estimation Demo
+  Fig: Optical Flow Estimation
 </p>
 
 
@@ -113,14 +113,14 @@ python run_depth.py -c pretrained/E2DEPTH_si_grad_loss_mixed.pth.tar \
 ```
 
 <p align="center">
-  <img src="https://github.com/ClaireDel/Optical-Flow-And-Depth-Estimation-From-Event-Cameras-Based-On-Deep-Learning-Techniques/blob/main/pictures/event-depth.gif" width=400 height=auto> <br/> 
-  Fig: Depth Estimation Demo
+  <img src="https://github.com/ClaireDel/Optical-Flow-And-Depth-Estimation-From-Event-Cameras-Based-On-Deep-Learning-Techniques/blob/main/pictures/events-depth.gif" width=400 height=auto> <br/> 
+  Fig: Event Source
 </p>
 
 
 <p align="center">
   <img src="https://github.com/ClaireDel/Optical-Flow-And-Depth-Estimation-From-Event-Cameras-Based-On-Deep-Learning-Techniques/blob/main/pictures/depth.gif" width=400 height=auto> <br/> 
-  Fig: Depth Estimation Demo
+  Fig: Depth Estimation 
 </p>
 
 
