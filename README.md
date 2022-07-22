@@ -42,7 +42,6 @@ The Depth Estimation oN Synthetic Events (DENSE) Dataset can be downloaded here:
 
 
 ## 2. Optical Flow Estimation
-This part consists in
 
 ### Download
 
@@ -57,7 +56,7 @@ Download the network checkpoints and place them in the folder ```checkpoints/```
 
 
 ### Running 
-The same python code '....py' is used for this part.
+This part consists in getting the optical flow predictions for each frame. To do that, the python file 'main.py' can be used. 
 
 <p align="center">
   <img src="https://github.com/ClaireDel/Optical-Flow-And-Depth-Estimation-From-Event-Cameras-Based-On-Deep-Learning-Techniques/blob/main/pictures/event-flow.gif" width=400 height=auto> <br/> 
@@ -72,7 +71,7 @@ The same python code '....py' is used for this part.
 
 
 ## 3. Depth Estimation
-This part consists in
+The python code 'run_depth.py' is used in this part to get the depth estimations for each frame of a sequence.
 
 ### Running
 
