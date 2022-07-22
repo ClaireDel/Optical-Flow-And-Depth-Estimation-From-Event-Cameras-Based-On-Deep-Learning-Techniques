@@ -3,9 +3,15 @@
 Data from event cameras have become readily available due to new camera products and public databases. These systems offer high temporal resolution, high dynamic range, low power consumption and high pixel bandwidth making them attractive for image-based navigation solutions. However, new computational techniques are required for this completely different data format. This research explores the use of deep learning techniques for the estimation of optical flow and depth from this data.
 
 <p align="center">
-  <img src="https://github.com/ClaireDel/Optical-Flow-And-Depth-Estimation-From-Event-Cameras-Based-On-Deep-Learning-Techniques/intro.jpg" width=400 height=auto> <br/> 
-  Fig: Optical Flow Process
+  <img src="https://github.com/ClaireDel/Optical-Flow-And-Depth-Estimation-From-Event-Cameras-Based-On-Deep-Learning-Techniques/pictures/of.PNG" width=400 height=auto> <br/> 
+  Fig: Optical Flow Example
 </p>
+
+<p align="center">
+  <img src="https://github.com/ClaireDel/Optical-Flow-And-Depth-Estimation-From-Event-Cameras-Based-On-Deep-Learning-Techniques/pictures/depth.PNG" width=400 height=auto> <br/> 
+  Fig: Depth Estimation Example
+</p>
+
 
 
 ## 1. Datasets
@@ -33,8 +39,7 @@ The Depth Estimation oN Synthetic Events (DENSE) Dataset can be downloaded here:
 
 | ```MVSEC``` | ```DSEC``` | ```DENSE``` |
 |:---:|:---:|:---:|
-|<img src="https://github.com/ClaireDel/Optical-Flow-And-Depth-Estimation-From-Event-Cameras-Based-On-Deep-Learning-Techniques
-/blob/main/pictures/MVSEC.png" width="70%" height="30%">|<img src="https://github.com/ClaireDelOptical-Flow-And-Depth-Estimation-From-Event-Cameras-Based-On-Deep-Learning-Techniques/blob/main/pictures/DSEC.png" width="100%" height="30%">|<img src="https://github.com/ClaireDel/Optical-Flow-And-Depth-Estimation-From-Event-Cameras-Based-On-Deep-Learning-Techniques/blob/main/pictures/DENSE.png" width="100%" height="30%">|
+|<img src="https://github.com/ClaireDel/Optical-Flow-And-Depth-Estimation-From-Event-Cameras-Based-On-Deep-Learning-Techniques/pictures/msvec.jpeg" width="70%" height="30%">|<img src="https://github.com/ClaireDelOptical-Flow-And-Depth-Estimation-From-Event-Cameras-Based-On-Deep-Learning-Techniques/pictures/dsec.jpeg" width="100%" height="30%">|<img src="https://github.com/ClaireDel/Optical-Flow-And-Depth-Estimation-From-Event-Cameras-Based-On-Deep-Learning-Techniques/pictures/dense.jpeg" width="100%" height="30%">|
 
 
 ## 2. Optical Flow Estimation
