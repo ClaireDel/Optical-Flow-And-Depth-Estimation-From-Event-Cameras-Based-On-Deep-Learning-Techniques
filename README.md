@@ -59,17 +59,15 @@ Download the network checkpoints and place them in the folder ```checkpoints/```
 ### Running 
 The same python code '....py' is used for this part.
 
-The parse can be updated according to the type of results needed:
-
 <p align="center">
-  <img src="https://github.com/ClaireDel/Conflict-Detection---GDP2/blob/main/pictures/seg_airport.jpg" width=400 height=auto> <br/> 
-  Fig: Example of segmentation
+  <img src="https://github.com/ClaireDel/Optical-Flow-And-Depth-Estimation-From-Event-Cameras-Based-On-Deep-Learning-Techniques/blob/main/pictures/event-flow.gif" width=400 height=auto> <br/> 
+  Fig: Depth Estimation Demo
 </p>
 
 
 <p align="center">
-  <img src="https://github.com/ClaireDel/Optical-Flow-And-Depth-Estimation-From-Event-Cameras-Based-On-Deep-Learning-Techniques/blob/main/Optical-Flow/demo/20Hz/events.mp4" width=400 height=auto> <br/> 
-  Fig: Optical Flow Demo
+  <img src="https://github.com/ClaireDel/Optical-Flow-And-Depth-Estimation-From-Event-Cameras-Based-On-Deep-Learning-Techniques/blob/main/pictures/flow.gif" width=400 height=auto> <br/> 
+  Fig: Depth Estimation Demo
 </p>
 
 
@@ -115,6 +113,14 @@ python run_depth.py -c pretrained/E2DEPTH_si_grad_loss_mixed.pth.tar \
 ```
 
 <p align="center">
-  <img src="https://github.com/ClaireDel/Optical-Flow-And-Depth-Estimation-From-Event-Cameras-Based-On-Deep-Learning-Techniques/blob/main/pictures/depth.PNG" width=400 height=auto> <br/> 
+  <img src="https://github.com/ClaireDel/Optical-Flow-And-Depth-Estimation-From-Event-Cameras-Based-On-Deep-Learning-Techniques/blob/main/pictures/event-depth.gif" width=400 height=auto> <br/> 
   Fig: Depth Estimation Demo
 </p>
+
+
+<p align="center">
+  <img src="https://github.com/ClaireDel/Optical-Flow-And-Depth-Estimation-From-Event-Cameras-Based-On-Deep-Learning-Techniques/blob/main/pictures/depth.gif" width=400 height=auto> <br/> 
+  Fig: Depth Estimation Demo
+</p>
+
+
