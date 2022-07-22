@@ -36,9 +36,9 @@ The Depth Estimation oN Synthetic Events (DENSE) Dataset can be downloaded here:
 - [DENSE](http://rpg.ifi.uzh.ch/E2DEPTH.html)
 
 
-| ```MVSEC``` | ```DSEC``` | 
-|:---:|:---:|
-|<img src="https://github.com/ClaireDel/Optical-Flow-And-Depth-Estimation-From-Event-Cameras-Based-On-Deep-Learning-Techniques/blob/main/pictures/msvec.jpeg" width="70%" height="30%">|<img src="https://github.com/ClaireDel/Optical-Flow-And-Depth-Estimation-From-Event-Cameras-Based-On-Deep-Learning-Techniques/blob/main/pictures/dsec.jpeg" width="70%" height="30%">|
+| ```MVSEC``` | ```DSEC``` | ```DENSE``` | 
+|:---:|:---:|:---:|
+|<img src="https://github.com/ClaireDel/Optical-Flow-And-Depth-Estimation-From-Event-Cameras-Based-On-Deep-Learning-Techniques/blob/main/pictures/msvec.jpeg" width="70%" height="30%">|<img src="https://github.com/ClaireDel/Optical-Flow-And-Depth-Estimation-From-Event-Cameras-Based-On-Deep-Learning-Techniques/blob/main/pictures/dsec.jpeg" width="70%" height="30%">|<img src="https://github.com/ClaireDel/Optical-Flow-And-Depth-Estimation-From-Event-Cameras-Based-On-Deep-Learning-Techniques/blob/main/pictures/dense.jpeg" width="70%" height="30%">|
 
 
 ## 2. Optical Flow Estimation
